@@ -1110,10 +1110,6 @@ A sampling of the estimates for epidemic parameters are presented below:
 </table>
 </div>
 
-<p class="center">
-Please DM me feedback <a href="https://twitter.com/gabeeegoooh">here</a> or email me <a href="mailto:izmegabe@gmail.com">here</a>. My <a href="http://gabgoh.github.io/">website</a>.
-</p>
-
 <!-- 
 <p class="center">
 <a href="https://twitter.com/gabeeegoooh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -1128,11 +1124,4 @@ The clinical dynamics in this model are an elaboration on SEIR that simulates th
 
 <!-- Input data -->
 <div style="margin-bottom: 30px">
-
-  <div class="center" style="padding: 10px; margin-top: 3px; width: 925px">
-    <div class="legendtext">Export parameters:</div>
-    <form>
-      <textarea type="textarea" rows="1" cols="5000" style="white-space: nowrap;  overflow: auto; width:100%; text-align: left" id="fname" name="fname">{state}</textarea>
-    </form>
-  </div>
 </div>
