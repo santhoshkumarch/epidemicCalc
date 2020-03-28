@@ -23510,9 +23510,9 @@
     			// div121 = element("div");
     			// div120 = element("div");
     			// div120.textContent = "Export parameters:";
-    			t422 = space();
-    			form = element("form");
-    			textarea = element("textarea");
+    			// t422 = space();
+    			// form = element("form");
+    			// textarea = element("textarea");
     			attr_dev(link, "rel", "stylesheet");
     			attr_dev(link, "href", "https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.css");
     			attr_dev(link, "integrity", "sha384-bsHo4/LA+lkZv61JspMDQB9QP1TtO4IgOf2yYS+J6VdAYLVyx1c3XKcsHh0Vy8Ws");
