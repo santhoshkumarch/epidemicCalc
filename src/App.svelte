@@ -595,7 +595,7 @@
 
 </style>
 
-<h2>Epidemic Calculator</h2>
+<h2>Sense9 Covid 19 Forecast India</h2>
 
 <div class="chart" style="display: flex; max-width: 1120px">
 
